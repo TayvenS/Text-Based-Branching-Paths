@@ -1,2 +1,2 @@
-# Text-Based-Stanley-Parable
-A Text Based Stanley Parable project just to get my feet wet with coding in Python
+# Text-Based-Branching-Paths
+A Text Based branching paths project just to get my feet wet with coding in Python
